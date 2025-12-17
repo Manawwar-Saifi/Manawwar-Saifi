@@ -1,33 +1,96 @@
-<h1 align="center">Hi 👋, I'm Manawwar Saifi</h1>
-<h3 align="center">Frontend Developer (2+ years) and BCA graduate specializing in building robust, custom solutions with React/Next.js. I'm a practical problem-solver who thrives on real-world challenges—leveraging documentation and independent research to deliver production-ready applications rather than relying on rote learning . Experienced in creating polished UI/UX with GSAP, Swiper, and Fancybox JS. Currently expanding into Full Stack development with hands-on experience in Node.js/MongoDB API integration.</h3>
+# 👋 Hi, I'm Manawwar Saifi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manawwar-saifi&label=Profile%20views&color=0e75b6&style=flat" alt="manawwar-saifi" /> </p>
+### 🚀 Frontend Developer | MERN |
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manawwar-saifi" alt="manawwar-saifi" /></a> </p>
+I build **clean, scalable, and production-ready web applications** using **React and Next.js**.  
+With **2+ years of real-world experience**, I focus on solving **practical problems**, crafting **smooth user experiences**, and writing code that actually survives production.
 
-- 🌱 I’m currently learning **Full Stack Development Flow**
+I believe in **learning deeply, not memorizing blindly** — documentation, experimentation, and independent research are my daily tools.
 
-- 👨‍💻 All of my projects are available at [https://manawwwar-saifi.vercel.app/](https://manawwwar-saifi.vercel.app/)
+---
 
-- 💬 Ask me about **javascript react and gsap**
+## ✨ What I Do Best
 
-- 📫 How to reach me **manawwarsaifi20@gmail.com**
+✔ Build high-performance React & Next.js applications  
+✔ Craft smooth, interactive UI with **GSAP & modern JS libraries**  
+✔ Convert complex ideas into **simple, intuitive user experiences**  
+✔ Research, debug, and ship **real-world solutions**  
+✔ Continuously grow towards **Full-Stack Development**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TYqBAVrIh_XBIULO3hFjtK2NlrrdM4xXJz8j3Etfnhg/edit?usp=sharing](https://docs.google.com/document/d/1TYqBAVrIh_XBIULO3hFjtK2NlrrdM4xXJz8j3Etfnhg/edit?usp=sharing)
+---
 
-- ⚡ Fun fact **I Love to learn technology in depth**
+## 🧠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manawwar-saifi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manawwar-saifi/" height="30" width="40" /></a>
-<a href="https://instagram.com/manawwarsaifi.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manawwarsaifi.20" height="30" width="40" /></a>
-</p>
+### 🎨 Frontend
+- HTML5 · CSS3 · JavaScript (ES6+)
+- React.js · Next.js
+- Tailwind CSS · Bootstrap · Sass
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🎬 Animations & UI
+- GSAP
+- Swiper.js
+- Fancybox.js
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manawwar-saifi&show_icons=true&locale=en&layout=compact" alt="manawwar-saifi" /></p>
+### 🔧 Backend (Hands-on & Learning)
+- Node.js
+- MongoDB
+- MySQL
+- REST API Integration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manawwar-saifi&show_icons=true&locale=en" alt="manawwar-saifi" /></p>
+### 🛠 Tools
+- Git & GitHub
+- Vercel
+- VS Code
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manawwar-saifi&" alt="manawwar-saifi" /></p>
+---
+
+## 💼 Featured Work
+
+🌐 **Portfolio**  
+👉 https://manawwwar-saifi.vercel.app/
+
+My projects focus on:
+- ⚡ Performance-first architecture
+- 🎯 Real-world UX problems
+- 🧩 Scalable & reusable components
+- ✨ Polished animations & micro-interactions
+
+---
+
+## 📄 Experience & Resume
+
+📑 **View Resume**  
+👉 https://docs.google.com/document/d/1TYqBAVrIh_XBIULO3hFjtK2NlrrdM4xXJz8j3Etfnhg/edit?usp=sharing
+
+---
+
+## 💬 Ask Me About
+
+- JavaScript internals
+- React & Next.js architecture
+- GSAP animations & performance
+- Building smooth, user-friendly interfaces
+
+---
+
+## 🌱 Currently Learning
+
+- Full-Stack Development Flow
+- Backend Architecture with Node.js
+- Scalable API design
+- Database optimization
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **manawwarsaifi20@gmail.com**
+- 💻 GitHub: **manawwar-saifi**
+- 🔗 Social: **manawwar-saifi / manawwarsaifi.20**
+
+---
+
+⚡ **Fun Fact:**  
+I don’t just use technology — I love understanding **why and how it works**.
+
+⭐ *Always open to collaboration, learning, and meaningful challenges.*
