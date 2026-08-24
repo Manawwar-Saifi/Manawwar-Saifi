@@ -72,7 +72,8 @@ My approach is simple:
 ## 💼 Featured Work
 
 🌐 **Portfolio**  
-👉 https://manawwwar-saifi.vercel.app/
+👉 https://portfolio-taupe-alpha.vercel.app/
+
 
 My projects focus on:
 - ⚡ Performance-first architecture  
